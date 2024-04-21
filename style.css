@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+#main {
+  width: 626px;
+  margin: 0 auto 72px;
+  text-align: center;
+
+}
+
+#footer {
+  bottom: 230px;
+
+}
